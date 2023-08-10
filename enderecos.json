@@ -1,0 +1,29 @@
+[
+  {
+    "Cep": "01001-000",
+    "Logradouro": "Praça da Sé",
+    "Complemento": "lado ímpar",
+    "Bairro": "Sé",
+    "Cidade": "São Paulo",
+    "Estado": "SP",
+    "Ddd": "11"
+  },
+  {
+    "Cep": "01451-918",
+    "Logradouro": "Avenida Brigadeiro Faria Lima",
+    "Complemento": "1656",
+    "Bairro": "Jardim Paulistano",
+    "Cidade": "São Paulo",
+    "Estado": "SP",
+    "Ddd": "11"
+  },
+  {
+    "Cep": "06385-680",
+    "Logradouro": "Rua Ituverava",
+    "Complemento": "",
+    "Bairro": "Jardim Ângela Maria",
+    "Cidade": "Carapicuíba",
+    "Estado": "SP",
+    "Ddd": "11"
+  }
+]
